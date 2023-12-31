@@ -1,0 +1,7 @@
+Pollutant,External Factor,Correlation Calculation,P-Value
+PM2_5,Temperature,-0.132503083,0
+PM2_5,Pressure,0.021176504,6.01*E-43
+PM2_5,DewPoint,0.110871403,0
+PM2_5,Rain,-0.0144614,6.53*E-21
+PM2_5,WindDirection,-0.074946124,0
+PM2_5,WindSpeed,-0.268893999,0

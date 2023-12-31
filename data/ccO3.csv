@@ -1,0 +1,7 @@
+Pollutant,External Factor,Correlation Calculation,P-Value
+O3,Temperature,0.595734814,0
+O3,Pressure,-0.449944918,0
+O3,DewPoint,0.316790241,0
+O3,Rain,0.023923795,2.51*E-54
+O3,WindDirection,0.19975194,0
+O3,WindSpeed,0.2920591,0

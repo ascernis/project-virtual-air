@@ -1,0 +1,7 @@
+Pollutant,External Factor,Correlation Calculation,P-Value
+SO2,Temperature,-0.324952605,0
+SO2,Pressure,0.226632831,0
+SO2,DewPoint,-0.271105669,0
+SO2,Rain,-0.040464188,5.73*E-152
+SO2,WindDirection,-0.014527176,4.35*E-21
+SO2,WindSpeed,-0.106349855,0

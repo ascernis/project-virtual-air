@@ -1,0 +1,7 @@
+Pollutant,External Factor,Correlation Calculation,P-Value
+NO2,Temperature,-0.27942118,0
+NO2,Pressure,0.176888707,0
+NO2,DewPoint,-0.036656947,4.66*E-125
+NO2,Rain,-0.043829819,5.7*E-178
+NO2,WindDirection,-0.10331699,0
+NO2,WindSpeed,-0.392782262,0
